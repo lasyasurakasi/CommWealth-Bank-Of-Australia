@@ -19,12 +19,11 @@ Each folder corresponds to a specific day's work, organized by date.
 - [📂 July 16](./july_16/)
 - [📂 July 17](./july_17/)
 - [📂 July 18](./july_18/)
-- [📂 July 20](./july_20/)
 - [📂 July 21](./july_21/)
 - [📂 July 22](./july_22/)
 - [📂 July 23](./july_23/)
 - [📂 July 24](./july_24/)
-- [📂 July 28](./july_28/)
+- [📂 July 28](./july_25/)
 - [📂 July 29](./july_29/)
 - [📂 July 30](./july_30/)
 ---
