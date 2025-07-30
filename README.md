@@ -26,6 +26,7 @@ Each folder corresponds to a specific day's work, organized by date.
 - [📂 July 24](./july%2024/)
 - [📂 July 28](./july%2028/)
 - [📂 July 29](./july%2029/)
+- [📂 July 30](./july%2030/)
 ---
 
 ## 📌 Notes
