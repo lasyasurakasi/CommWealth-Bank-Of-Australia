@@ -5,10 +5,6 @@ This repo contains daily logs, code, and notes from my apprenticeship.
 Each folder corresponds to a specific day's work, organized by date.
 
 ---
-
-
-## 📅 Apprentice Logs
-
 - [📂 July 2](./july%202/)
 - [📂 July 3](./july%203/)
 - [📂 July 4](./july%204/)
@@ -30,8 +26,6 @@ Each folder corresponds to a specific day's work, organized by date.
 - [📂 July 24](./july%2024/)
 - [📂 July 28](./july%2028/)
 - [📂 July 29](./july%2029/)
-
-
 ---
 
 ## 📌 Notes
