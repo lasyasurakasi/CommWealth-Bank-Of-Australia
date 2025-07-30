@@ -6,30 +6,31 @@ Each folder corresponds to a specific day's work, organized by date.
 
 ---
 
-## 📅 Daily Breakdown
+
+## 📅 Apprentice Logs
 
 - [📂 July 2](./july%202/)
-- [📂 July 3](./july3/)
-- [📂 July 4](./july4/)
-- [📂 July 5](./july5/)
-- [📂 July 8](./july8/)
-- [📂 July 9](./july9/)
-- [📂 July 10](./july10/)
-- [📂 July 11](./july11/)
-- [📂 July 12](./july12/)
-- [📂 July 14](./july14/)
-- [📂 July 15](./july15/)
-- [📂 July 16](./july16/)
-- [📂 July 17](./july17/)
-- [📂 July 18](./july18/)
-- [📂 July 20](./july20/)
-- [📂 July 21](./july21/)
-- [📂 July 22](./july22/)
-- [📂 July 23](./july23/)
-- [📂 July 24](./july24/)
-- [📂 July 27](./july27/)
-- [📂 July 28](./july28/)
-- [📂 July 29](./july29/)
+- [📂 July 3](./july%203/)
+- [📂 July 4](./july%204/)
+- [📂 July 7](./july%207/)
+- [📂 July 8](./july%208/)
+- [📂 July 9](./july%209/)
+- [📂 July 10](./july%2010/)
+- [📂 July 11](./july%2011/)
+- [📂 July 12](./july%2012/)
+- [📂 July 14](./july%2014/)
+- [📂 July 15](./july%2015/)
+- [📂 July 16](./july%2016/)
+- [📂 July 17](./july%2017/)
+- [📂 July 18](./july%2018/)
+- [📂 July 20](./july%2020/)
+- [📂 July 21](./july%2021/)
+- [📂 July 22](./july%2022/)
+- [📂 July 23](./july%2023/)
+- [📂 July 24](./july%2024/)
+- [📂 July 28](./july%2028/)
+- [📂 July 29](./july%2029/)
+
 
 ---
 
