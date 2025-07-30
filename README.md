@@ -8,7 +8,7 @@ Each folder corresponds to a specific day's work, organized by date.
 
 ## 📅 Daily Breakdown
 
-- [📂 July 2](./july_2/)
+- [📂 July 2](./july2/)
 - [📂 July 3](./july3/)
 - [📂 July 4](./july4/)
 - [📂 July 5](./july5/)
