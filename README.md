@@ -1,7 +1,5 @@
 # 🛠️ Apprenticeship Logs 
 
-This repo contains daily logs, code, and notes from my apprenticeship.
-
 Each folder corresponds to a specific day's work, organized by date.
 
 ---
@@ -31,8 +29,4 @@ Each folder corresponds to a specific day's work, organized by date.
 - [📂 July 30](./july_30/)
 ---
 
-## 📌 Notes
-
-- Each folder may contain `.java`, `.js`, `.md`, or `.txt` files, depending on the topic of the day.
-- Most days include: code snippets, problem solutions, notes from learning, and experiment logs.
 
