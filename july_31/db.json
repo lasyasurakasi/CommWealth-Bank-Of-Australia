@@ -1,0 +1,81 @@
+{
+  "movies": [
+    {
+      "id": "2",
+      "title": "3 Idiots",
+      "cast": "Aamir Khan, R. Madhavan, Sharman Joshi",
+      "genre": "Comedy-Drama",
+      "watched": true
+    },
+    {
+      "id": "3",
+      "title": "The Dark Knight",
+      "cast": "Christian Bale, Heath Ledger",
+      "genre": "Action",
+      "watched": "Unwatched"
+    },
+    {
+      "id": "4",
+      "title": "Dangal",
+      "cast": "Aamir Khan, Fatima Sana Shaikh",
+      "genre": "Sports-Drama",
+      "watched": "Watched"
+    },
+    {
+      "id": "5",
+      "title": "Interstellar",
+      "cast": "Matthew McConaughey, Anne Hathaway",
+      "genre": "Sci-Fi",
+      "watched": true
+    },
+    {
+      "id": "6",
+      "title": "Zindagi Na Milegi Dobara",
+      "cast": "Hrithik Roshan, Farhan Akhtar, Abhay Deol",
+      "genre": "Adventure-Drama",
+      "watched": true
+    },
+    {
+      "id": "7",
+      "title": "The Shawshank Redemption",
+      "cast": "Tim Robbins, Morgan Freeman",
+      "genre": "Drama",
+      "watched": true
+    },
+    {
+      "id": "8",
+      "title": "Queen",
+      "cast": "Kangana Ranaut",
+      "genre": "Comedy-Drama",
+      "watched": false
+    },
+    {
+      "id": "9",
+      "title": "Avengers: Endgame",
+      "cast": "Robert Downey Jr., Chris Evans",
+      "genre": "Superhero",
+      "watched": true
+    },
+    {
+      "id": "10",
+      "title": "Taare Zameen Par",
+      "cast": "Darsheel Safary, Aamir Khan",
+      "genre": "Drama",
+      "watched": true
+    },
+    {
+      "id": "016f",
+      "title": "F1",
+      "cast": "Bradd Pitt",
+      "genre": "Drama",
+      "watched": "Watched"
+    },
+    {
+      "id": "57da",
+      "title": "Men In Black",
+      "cast": "William Smith",
+      "genre": "Action",
+      "watched": "Unwatched"
+    }
+  ]
+}
