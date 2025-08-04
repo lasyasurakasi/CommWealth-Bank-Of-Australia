@@ -28,6 +28,7 @@ Each folder corresponds to a specific day's work, organized by date.
 - [📂 July 29](./july_29/)
 - [📂 July 30](./july_30/)
 - [📂 July 31](./july_31/)
+- [📂 Aug 1](./aug_1/)
 ---
 
 
