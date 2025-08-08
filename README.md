@@ -30,5 +30,9 @@ Each folder corresponds to a specific day's work, organized by date.
 - [📂 July 31](./july_31/)
 - [📂 Aug 1](./aug_1/)
 ---
+## Node js
+- [📂 Aug 6](./aug_6/)
+- [📂 Aug 7](./aug_7/)
+
 
 
